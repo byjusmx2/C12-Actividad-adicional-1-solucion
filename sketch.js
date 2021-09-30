@@ -17,10 +17,10 @@ function setup() {
   var result = find_num(arr,10);
   if(result ==-1)
   {
-    console.log("number not found");
+    console.log("número no encontrado");
   }
   else{
-    console.log("number found at index:",result)
+    console.log("número encontrado en índice:",result)
   }
  
 }
